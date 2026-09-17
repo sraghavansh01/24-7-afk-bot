@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PvPpracticeIg.aternos.me",
-    "port": 14050,
+    "ip": "OMEGA_SMPopy.aternos.me",
+    "port": 51233,
     "version": "1.20.1",
     "try-creative": false
   },
